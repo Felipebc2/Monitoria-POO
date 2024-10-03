@@ -39,5 +39,6 @@ public class Endereco {
 
     public void mostrarEndereco(){
         System.out.println(rua + ", " + numero + ", " + complemento + ", " + bairro + ", " + cidade + ", " + estado + ", " + pais);
+
     }
 }

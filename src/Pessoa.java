@@ -31,4 +31,5 @@ public abstract class Pessoa {
     public void setDataNasc(String dataNasc){this.dataNasc = dataNasc;}
     public void setUsuario(String usuario){this.usuario = usuario;}
     public void setSenha(String senha){this.senha = senha;}
+
 }

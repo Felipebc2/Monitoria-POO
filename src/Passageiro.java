@@ -21,5 +21,6 @@ public class Passageiro extends Pessoa {
 
     public void solicitarViagem(){
         System.out.println(getNome() + " solicitou uma viagem");
+
     }
 }
